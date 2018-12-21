@@ -4,6 +4,7 @@ typedef enum {
 	KULE,
 	ZALUDY
 } tBarvaKarty;
+
 typedef enum {
 	K7, // sedmièka
 	K8, // osmièka

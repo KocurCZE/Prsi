@@ -6,7 +6,7 @@ typedef struct seznam {
 	int pocetKaret;
 } tSeznam;
 
-tSeznam * vytvorSeznam(char *nazevSeznamu) // vrací adresu dynamické alokace prázdného seznamu
+tSeznam * vytvorSeznam(char *nazevSeznamu); // vrací adresu dynamické alokace prázdného seznamu
 
 void vlozNaPosledniMisto(tSeznam * s, tKarta * k);
 // Použití: Na zaèátku hry naplnit nový balíèek, èi pøi naètení ze souboru

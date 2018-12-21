@@ -7,7 +7,6 @@ typedef struct karta {
 	struct karta *dalsi;
 } tKarta;
 
-// DOPSAT !!!!
 tKarta * vytvorKartu(enum tBarvaKarty barvaKarty, enum tTypKarty typKarty, char *nazev); // vrací adresu dynamické alokace karty, ukazatel dalsi se nastaví na NULL
 
 void vypisKartu(tKarta *karta); //vypíše kartu na obrazovku
