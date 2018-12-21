@@ -2,9 +2,12 @@
 #include "karta.h"
 
 tKarta * vytvorKartu(enum tBarvaKarty barvaKarty, enum tTypKarty typKarty, char *nazev) {
-	tBarvaKarty barvaKarty = rand(7);
+	
+	nazev = "cervena sedmicka", "cervena osmicka";
+
+	return 0;
 }
 
 void vypisKartu(tKarta *karta) {
-	printf("");
+	//printf("");
 }
