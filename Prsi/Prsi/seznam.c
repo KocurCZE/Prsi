@@ -1,0 +1,1 @@
+// implementace(definici) funkci seznam.h

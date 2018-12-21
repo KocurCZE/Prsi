@@ -1,0 +1,1 @@
+// obsahuje pouze implementace (definici) tìchto funkcí ... karta.h
