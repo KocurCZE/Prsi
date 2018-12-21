@@ -3,7 +3,7 @@
 
 tKarta * vytvorKartu(enum tBarvaKarty barvaKarty, enum tTypKarty typKarty, char *nazev) {
 	
-	nazev = "cervena sedmicka", "cervena osmicka";
+	nazev = "cervena sedmicka", "cervena osmicka";//asi jako no
 
 	return 0;
 }
