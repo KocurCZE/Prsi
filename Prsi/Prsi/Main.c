@@ -2,8 +2,8 @@
 
 int main(int argc, char *argv[]) {
 
-	_CrtDumpMemoryLeaks();
-
+	//_CrtDumpMemoryLeaks();
+ 
 	
 
 	return 0;
